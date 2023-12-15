@@ -44,11 +44,11 @@
 
 ## ✰ Result  
 
-- [Guru99](https://github.com/Guppi17/Bash/blob/main/Homework-1.1.txt)  
-- [DemoWebShop](https://github.com/Guppi17/Bash/blob/main/Homework-1.2.txt)
+- [Guru99](https://github.com/Guppi17/Test-Suites-and-Test-Cases/blob/main/GURU99%20test%20case.pdf)  
+- [DemoWebShop](https://github.com/Guppi17/Test-Suites-and-Test-Cases/blob/main/DemoWebShop.pdf)
 - [Petstore](https://docs.google.com/spreadsheets/d/1pH5I6NPEL-kKj4ukEYcGXAkMRgZ4Ho0tlZ0Qq5fTCl0/edit?usp=sharing)
-- [TO-DO-MVP.1](https://github.com/Guppi17/Bash/blob/main/Homework-1.2.txt)
-- [TO-DO-MVP.2](https://github.com/Guppi17/Bash/blob/main/Homework-1.2.txt)
+- [TO-DO-MVP.1](https://github.com/Guppi17/Test-Suites-and-Test-Cases/blob/main/ToDoMVP%20test%20case.pdf)
+- [TO-DO-MVP.2](https://drive.google.com/file/d/1rRjt1Gg304okcHzU3bQ9SlG6ASNFwGyx/view?usp=sharing)
 
 <div align="center">
 <img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/>
