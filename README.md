@@ -46,6 +46,7 @@
 
 - [Guru99](https://github.com/Guppi17/Bash/blob/main/Homework-1.1.txt)  
 - [DemoWebShop](https://github.com/Guppi17/Bash/blob/main/Homework-1.2.txt)
+- [Petstore](https://docs.google.com/spreadsheets/d/1pH5I6NPEL-kKj4ukEYcGXAkMRgZ4Ho0tlZ0Qq5fTCl0/edit?usp=sharing)
 - [TO-DO-MVP.1](https://github.com/Guppi17/Bash/blob/main/Homework-1.2.txt)
 - [TO-DO-MVP.2](https://github.com/Guppi17/Bash/blob/main/Homework-1.2.txt)
 
